@@ -1,2 +1,2 @@
 # MachineLearning
-Repository form the Machine Learning class at ITAM 2017
+## The Machine Learning class repository - ITAM 2017
